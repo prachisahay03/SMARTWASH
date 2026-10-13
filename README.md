@@ -157,7 +157,7 @@ SmartWash was developed as a learning project to practise Python programming and
 
 BSc Information Technology Undergraduate
 
-GitHub: https://github.com/YOUR-prachisahay03
+GitHub: https://github.com/-prachisahay03
 
 ## Application Screenshot
 
