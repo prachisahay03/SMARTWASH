@@ -159,6 +159,10 @@ BSc Information Technology Undergraduate
 
 GitHub: https://github.com/YOUR-prachisahay03
 
+## Application Screenshot
+
+![SmartWash Application](smartwash-screenshot.png)
+
 ---
 
 *SmartWash is an educational simulation project. It does not operate or control real washing-machine hardware.*
