@@ -39,7 +39,7 @@ The project uses Python's built-in `http.server`, `json`, `time`, `datetime`, an
 
 ```text
 SmartWash/
-├── smartwash.py
+├── SMARTWASH1.PY
 ├── cycle_history.json   # Created when cycle history is saved
 └── README.md
 ```
@@ -57,8 +57,8 @@ SmartWash/
 Replace `YOUR-USERNAME` with your GitHub username.
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/SmartWash.git
-cd SmartWash
+git clone https://github.com/YOUR-USERNAME/SMARTWASH1.git
+cd SMARTWASH1
 ```
 
 Alternatively, download the repository as a ZIP file and extract it.
@@ -68,13 +68,13 @@ Alternatively, download the repository as a ZIP file and extract it.
 On Windows, open a terminal in the project folder and run:
 
 ```bash
-py smartwash.py
+py SMARTWASH1.PY
 ```
 
 You should see a message similar to:
 
 ```text
-SmartWash running at http://127.0.0.1:8189/
+SMARTWASH1 running at http://127.0.0.1:8189/
 ```
 
 ### 3. Open the application
