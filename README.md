@@ -81,7 +81,7 @@ SMARTWASH1 running at http://127.0.0.1:8189/
 
 Open the following address in your browser:
 
-http://127.0.0.1:8189/
+http://127.0.0.1:8289/
 
 Keep the Python terminal running while you use the application.
 
