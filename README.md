@@ -57,7 +57,7 @@ SmartWash/
 Replace `YOUR-USERNAME` with your GitHub username.
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/SMARTWASH1.git
+git clone https://github.com/prachisahay03/SMARTWASH1.git
 cd SMARTWASH1
 ```
 
@@ -74,7 +74,7 @@ py SMARTWASH1.PY
 You should see a message similar to:
 
 ```text
-SMARTWASH1 running at http://127.0.0.1:8189/
+SMARTWASH1 running at http://127.0.0.1:8289/
 ```
 
 ### 3. Open the application
